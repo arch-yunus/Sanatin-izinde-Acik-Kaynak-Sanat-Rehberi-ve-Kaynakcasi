@@ -6,7 +6,7 @@
 
 > *"Sanat, ebediyetin dilidir; kelimelerin bittiği yerde başlayan sessiz bir haykırıştır."*
 
-Hoş geldiniz! Bu repo, sadece bir bilgi deposu değil, aynı zamanda sanatın insan ruhu ve toplum üzerindeki iyileştirici, dönüştürücü ve birleştirici gücünü keşfetmek isteyenler için bir **pusuladır**. 
+Hoş geldiniz! Bu repo, sadece bir bilgi deposu değil; sanatın manevi, toplumsal ve bireysel dönüştürücü gücünü keşfetmek isteyenler için bir **pusuladır**. Sanatın edeple birleştiği, estetiğin hikmetle harmanlandığı bu yolculukta bilginin ve güzelliğin paylaşıldıkça çoğalacağına inanıyoruz.
 
 ---
 
@@ -14,12 +14,11 @@ Hoş geldiniz! Bu repo, sadece bir bilgi deposu değil, aynı zamanda sanatın i
 1. [📊 Vizyon ve Misyon](#-vizyon-ve-misyon)
 2. [🗺️ Sanat Serüveninizi Seçin!](#️-sanat-serüveninizi-seçin)
 3. [🖼️ Sanal Galeri: Başyapıtlar](#️-sanal-galeri-başyapıtlar)
-4. [🎭 Sanatın Temel Disiplinleri](#-sanatın-temel-disiplinleri)
-5. [🗺️ Gelişim İçin Yol Haritası](#-gelişim-için-yol-haritası)
-6. [🧠 Sanat Felsefesi ve Estetik](#-sanat-felsefesi-ve-estetik)
+4. [🌙 İslam Sanatları ve Estetiği](#-islam-sanatları-ve-estetiği)
+5. [🎭 Sanatın Temel Disiplinleri](#-sanatın-temel-disiplinleri)
+6. [🗺️ Gelişim İçin Yol Haritası](#-gelişim-için-yol-haritası)
 7. [🚀 Sanatın Geleceği ve Dijital Dönüşüm](#-sanatın-geleceği-ve-dijital-dönüşüm)
 8. [📚 Önerilen Kaynaklar](#-önerilen-kaynaklar)
-9. [🤝 Nasıl Katkıda Bulunabilirsiniz?](#-nasıl-katkıda-bulunabilirsiniz)
 
 ---
 
@@ -27,6 +26,9 @@ Hoş geldiniz! Bu repo, sadece bir bilgi deposu değil, aynı zamanda sanatın i
 
 ### Vizyonumuz
 Dünya üzerindeki her bireyin, sanatın dallarından en az biriyle barışık olduğu, estetik kaygının günlük yaşamın bir parçası haline geldiği ve yaratıcılığın önündeki bariyerlerin kalktığı bir gelecek hayal ediyoruz.
+
+### Misyonumuz
+Sanatı popüler kültürün sığlığından kurtarıp; kadim kökenleri, manevi derinliği ve teknik mükemmelliği ile yeniden hak ettiği yere taşımak.
 
 ---
 
@@ -36,26 +38,32 @@ Nereden başlayacağınızı bilmiyorsanız, size özel hazırladığımız **[S
 
 ---
 
+## 🌙 İslam Sanatları ve Estetiği
+
+Maneviyatın maddeyle buluştuğu, tevhid inancının estetik bir forma dönüştüğü dünyayı keşfedin:
+
+*   📖 [**İslam Estetiği Rehberi**](rehberler/islam-estetigi.md): Mana ve madde arasındaki köprü.
+*   🕌 [**İslam Sanatları**](disiplinler/05-islam-sanatlari.md): Hüsn-i Hat, Tezhip, Ebru ve Mimari.
+*   🏛️ [**Mimari Miras Durakları**](kaynaklar/islam-sanati-mekanlar.md): Dünyadan örnekler.
+
+---
+
 ## 🖼️ Sanal Galeri: Başyapıtlar
 
-Dünyayı değiştiren, bakış açımızı dönüştüren 10 büyük eserin hikayesini ve sanatsal analizini [**Sanal Galeri: Başyapıtlar**](galeri/bas-yapitalar.md) sayfamızda keşfedin.
+Dünyayı değiştiren, bakış açımızı dönüştüren büyük eserlerin hikayesini ve sanatsal analizini [**Sanal Galeri: Başyapıtlar**](galeri/bas-yapitalar.md) sayfamızda keşfedin.
 
 ---
 
 ## 🎭 Sanatın Temel Disiplinleri
 
-Sanatın sonsuz evreninde yolculuğa çıkmak için kapılarımız:
-
-*   🖼️ [**Görsel Sanatlar**](disiplinler/01-gorsel-sanatlar.md): Çizginin, rengin ve formun sessiz ama etkili dili.
-*   🎵 [**İşitsel Sanatlar**](disiplinler/02-isitsel-sanatlar.md): Zamanın ritmik dökümü, ruhun matematiksel ifadesi.
-*   🎭 [**Sahne Sanatları**](disiplinler/03-sahne-sanatlari.md): İnsanlık hallerinin şimdiki zamanda kanlı canlı temsili.
-*   📚 [**Edebi Sanatlar**](disiplinler/04-edebi-sanatlar.md): Kelimelerle evrenler inşa etme sanatı.
+*   🖼️ [**Görsel Sanatlar**](disiplinler/01-gorsel-sanatlar.md): Çizgi, renk ve form.
+*   🎵 [**İşitsel Sanatlar**](disiplinler/02-isitsel-sanatlar.md): Ses ve ritim.
+*   🎭 [**Sahne Sanatları**](disiplinler/03-sahne-sanatlari.md): Canlı performans ve ifade.
+*   📚 [**Edebi Sanatlar**](disiplinler/04-edebi-sanatlar.md): Kelimelerle inşa.
 
 ---
 
 ## 🗺️ Gelişim İçin Yol Haritası
-
-Sanata başlamak bir varış noktası değil, bir **keşif yolculuğudur**. İşte sizin için çizdiğimiz interaktif yol haritası:
 
 ```mermaid
 graph TD
@@ -64,9 +72,11 @@ graph TD
     C -->|Görsel| D[Pratik & Eskiz]
     C -->|İşitsel| E[Kuram & Ritim]
     C -->|Sahne| F[Beden & İfade]
+    C -->|İslam San.| I[Meşk & Sabır]
     D --> G[Üretim & Paylaşım]
     E --> G
     F --> G
+    I --> G
     G --> H[Kendi Tarzını Bul!]
 ```
 
@@ -74,42 +84,30 @@ Ayrıntılı rehber için [**Sanata Başlangıç Rehberi**](rehberler/sanata-bas
 
 ---
 
-## 🧠 Sanat Felsefesi ve Estetik
-
-"Güzel" nedir? "Çirkin" sanatsal olabilir mi? Bu soruların cevabı yoksa da, arayışın kendisi [**Estetik ve Felsefe**](rehberler/estetik-ve-felsefe.md) sayfamızda gizli.
-
----
-
 ## 🚀 Sanatın Geleceği ve Dijital Dönüşüm
 
-21. yüzyıl, sanatın tanımını yeniden yapıyor.
-*   **Yapay Zeka (AI) ve Sanat:** Algoritmalar yaratıcı olabilir mi?
-*   **NFT ve Blokzincir:** Dijital sanatın sahipliği.
-*   **VR/AR Deneyimleri:** Sanatın içine girmek.
+21. yüzyıl teknolojilerinin sanata etkisi: AI, NFT ve VR deneyimleri.
 
 ---
 
 ## 📚 Önerilen Kaynaklar
 
-*   📖 [**Kitap Önerileri**](kaynaklar/kitaplar.md): Sanat tarihinin mihenk taşları.
-*   🌐 [**Dijital Platformlar**](kaynaklar/online-platformlar.md): Online sergiler ve eğitimler.
-*   🏛️ [**Müzeler ve Galeriler**](kaynaklar/muzeler.md): Görülmesi gereken dünya mirasları.
-*   🖋️ [**Özlü Sözler ve Bilgelik**](kaynaklar/ozlu-sozler.md): Ustaların ruhundan dökülenler.
-*   📖 [**A'dan Z'ye Sanat Sözlüğü**](kaynaklar/sozluk.md): Temel kavramlar rehberi.
+*   📖 [**Kitap Önerileri**](kaynaklar/kitaplar.md): Temel yapı taşları.
+*   🌐 [**Dijital Platformlar**](kaynaklar/online-platformlar.md): Online sergiler.
+*   🏛️ [**Müzeler ve Galeriler**](kaynaklar/muzeler.md): Görülmesi gereken duraklar.
+*   🖋️ [**Özlü Sözler**](kaynaklar/ozlu-sozler.md): Ustaların ruhundan.
+*   📖 [**Sanat Sözlüğü**](kaynaklar/sozluk.md): Temel kavramlar.
 
 ---
 
 ## 🌍 Neden Sanat?
-Sanat, bir süsleme aracı değil, bir **varoluş mücadelesidir**.
-*   **Antropolojik Hafıza:** İnsanlık tarihini sanattan okuruz.
-*   **Bilişsel Esneklik:** Beyindeki yeni köprüler.
-*   **Toplumsal Empati:** Evrensel "biz"i inşa etme gücü.
+Sanat, bir süsleme aracı değil, bir **varoluş mücadelesidir**. İnsanlık hafızasıdır.
 
 ---
 
 ## 🤝 Nasıl Katkıda Bulunabilirsiniz?
 
-Bu bir topluluk projesidir. Siz de bir taş koymak isterseniz Lütfen [**KATKI REHBERİ**](CONTRIBUTING.md) dosyasını inceleyin.
+Lütfen [**KATKI REHBERİ**](CONTRIBUTING.md) dosyasını inceleyin.
 
 ---
 

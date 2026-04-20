@@ -35,6 +35,14 @@ Bu sayfa, insanlık tarihinin akışını değiştiren, estetik ve düşünsel s
 **Neden Önemli?** "Sanat nedir?" sorusunu kökten değiştiren "Ready-made" (hazır-nesne) akımını başlatmıştır. Sanatın materyalden çok bir "fikir" olduğunu kanıtlamıştır.
 
 ---
+
+## 11. Selimiye Camii - Mimar Sinan (1575)
+**Neden Önemli?** İslam mimarisinin zirve noktasıdır. Mimar Sinan’ın "ustalık eserim" dediği bu yapı, tek bir büyük kubbe altındaki muazzam geniş hacmi ve zarif minareleriyle tevhid inancının mimarideki en ihtişamlı tezahürüdür.
+
+## 12. Hilye-i Şerif - Hafız Osman (17. Yüzyıl)
+**Neden Önemli?** Peygamber Efendimiz’in (sav) fiziksel özelliklerini, ahlakını ve şemailini en yüksek estetikle kağıda döken Hüsn-i Hat başyapıtıdır. Suret yerine kelamın güzelliğiyle hatırlamayı esas alan İslami sanat anlayışının en somut örneğidir.
+
+---
 > [!TIP]
 > Bir sanat eserini anlamak için sadece bakmayın; onun hangi şartlarda, hangi acıların veya sevinçlerin içinden doğduğunu hissetmeye çalışın.
 

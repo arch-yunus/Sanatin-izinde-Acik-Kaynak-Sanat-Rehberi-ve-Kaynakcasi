@@ -15,18 +15,22 @@ Artık terimler arasında kaybolmanıza gerek yok. İşte sanat dünyasının te
 *   **Fresk:** Yaş harç veya sıva üzerine yapılan duvar resmi tekniği.
 *   **Işık-Gölge (Chiaroscuro):** Formlara hacim ve drama kazandırmak için ışık ve gölgenin zıtlık içinde kullanılması.
 *   **Kübizm:** Nesnelerin geometrik parçalara ayrılarak farklı açılardan aynı anda gösterilmesi.
+*   **Kündekari:** Ahşap parçaların çivi veya tutkal kullanılmadan, sadece geçme tekniğiyle birleştirildiği kadim İslam sanatı.
 
 ## L - P
 *   **Mimesis:** Sanatın doğayı ve insan gerçeğini taklit etmesi ilkesi.
 *   **Minimalizm:** Sadelikten doğan güç; eseri temel unsurlarına (biçim, renk, malzeme) indirgeme çabası.
 *   **Modernizm:** Klasik kuralları reddeden ve yeni anlatım yolları arayan 19. ve 20. yüzyıl sanat hareketi.
+*   **Mukarnas:** İslam mimarisinde özellikle kubbe ve nişlerde kullanılan, sarkıt biçimli üç boyutlu geometrik süsleme.
 *   **Perspektif:** İki boyutlu yüzeyde üç boyutlu derinlik algısı yaratma tekniği.
 
 ## R - Z
+*   **Rumi / Hatai:** İslam süsleme sanatlarında kullanılan bitkisel ve hayvansal kaynaklı stilize motifler.
 *   **Rönesans:** 15. ve 16. yüzyıllarda Avrupa'da sanat, bilim ve felsefenin yeniden doğuşu.
-*   **Sfumato:** Renkler ve tonlar arasındaki geçişin dumanlı bir yumuşaklıkta yapılması (Leonardo'nun tekniği).
-*   **Sürrealizm (Gerçeküstücülük):** Bilinçaltının, rüyaların ve mantık dışı hayal gücünün sanata yansıması.
-*   **Tuval:** Üzerine resim yapılan, kasnağa gerili bez.
+*   **Sfumato:** Renkler ve tonlar arasındaki geçişin dumanlı bir yumuşaklıkta yapılması.
+*   **Sürrealizm (Gerçeküstücülük):** Bilinçaltının ve hayallerin sanata yansıması.
+*   **Tezhip:** El yazması eserlerin ve levhaların altın ve boya ile süslenmesi sanatı.
+*   **Tuval:** Üzerine resim yapılan bez.
 
 ---
 > [!NOTE]
