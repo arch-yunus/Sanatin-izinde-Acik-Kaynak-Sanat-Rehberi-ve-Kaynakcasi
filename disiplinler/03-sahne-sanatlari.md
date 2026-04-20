@@ -1,6 +1,8 @@
-# Sahne Sanatlar
+# Sahne Sanatları
 
-Sahne sanatlar, bir seyirci topluluu nnde canl olarak icra edilen ve bedensel, dilsel, ritmik ifadeleri birletiren disiplinlerdir.
+> *"Dünya koca bir sahnedir ve tüm erkeklerle kadınlar yalnızca birer oyuncu."* — **William Shakespeare**
+
+Sahne sanatları, bir seyirci topluluğu önünde canlı olarak icra edilen ve bedensel, dilsel, ritmik ifadeleri birleştiren disiplinlerdir.
 
 ## 1. Tiyatro
 nsanln hikaye anlatma ihtiyacnn en eski ve en doal yollarndan biridir.

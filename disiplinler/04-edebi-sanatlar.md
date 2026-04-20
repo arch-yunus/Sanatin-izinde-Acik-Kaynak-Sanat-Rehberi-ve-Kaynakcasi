@@ -1,6 +1,8 @@
 # Edebi Sanatlar (Edebiyat)
 
-Dilin estetik bir ara olarak kullanlarak, duygu, dnce ve hayallere form verilmesi sanatdr.
+> *"Dil, düşüncenin hem giysisi hem de bedenidir."*
+
+Dilin estetik bir araç olarak kullanılarak, duygu, düşünce ve hayallere form verilmesi sanatıdır.
 
 ## 1. iir
 Dilin en youn ve ritmik kullanmldr. l, kafiye veya serbest stil ile duygusal derinlik ve imgelem oluturulur.

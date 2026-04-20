@@ -1,6 +1,8 @@
-# Grsel Sanatlar
+# Görsel Sanatlar
 
-Grsel sanatlar, temel olarak gze hitap eden ve biim, renk, doku gibi unsurlar kullanarak bir ifade biimi oluturan sanat dallarn kapsar.
+> *"Fırça elime geldiğinde, dünya ile aramdaki tüm sınırlar kalkar."*
+
+Görsel sanatlar, temel olarak göze hitap eden ve biçim, renk, doku gibi unsurlar kullanarak bir ifade biçimi oluşturan sanat dallarını kapsar.
 
 ## 1. Resim ve izim
 Dz bir yzey zerinde (tuval, kat, duvar vb.) pigmentlerin ve izgilerin kullanld en eski sanat dallarndan biridir.

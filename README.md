@@ -94,6 +94,7 @@ Bilginizi derinleştirmek için topluluğumuzun seçkileri:
 *   📖 [**Kitap Önerileri**](kaynaklar/kitaplar.md): Gombrich'ten Berger'e temel yapı taşları.
 *   🌐 [**Dijital Platformlar**](kaynaklar/online-platformlar.md): Sanal galeriler ve ücretsiz eğitimler.
 *   🏛️ [**Müzeler ve Galeriler**](kaynaklar/muzeler.md): Görülmesi gereken dünya mirasları.
+*   🖋️ [**Özlü Sözler ve Bilgelik**](kaynaklar/ozlu-sozler.md): Büyük sanatçılardan ilham verici düşünceler.
 
 ---
 

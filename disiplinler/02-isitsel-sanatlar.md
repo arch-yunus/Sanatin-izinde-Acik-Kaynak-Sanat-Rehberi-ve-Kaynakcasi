@@ -1,6 +1,8 @@
-# itsel Sanatlar (Mzik)
+# İşitsel Sanatlar (Müzik)
 
-itsel sanatlar, zaman iinde akan ve seslerin dzenlenmesiyle oluan sanat dallarn kapsar. Mzik, bu disiplinin en gl temsilcisidir.
+> *"Müzik, ruhun gıdasıdır; ama aynı zamanda zihnin en yüksek matematiğidir."*
+
+İşitsel sanatlar, zaman içinde akan ve seslerin düzenlenmesiyle oluşan sanat dallarını kapsar. Müzik, bu disiplinin en güçlü temsilcisidir.
 
 ## 1. Mziin Temel Yap Taar
 Mzi anlamak iin u drt ana unsuru kavramak gerekir:
