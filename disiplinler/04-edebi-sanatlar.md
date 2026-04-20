@@ -21,4 +21,11 @@ Dilin ikna edici, etkileyici ve gzel kullanlmas sanatdr. Antik Yunan'dan beri sa
 Edebi eserlerin yorumlanmas, deyerlendirilmesi ve anlamlandrlmas srecidir. Sanat anlamak iin kritik bir neme sahiptir.
 
 ---
-[?? Ana Sayfaya Dn](../README.md)
+> [!TIP]
+> **Satır Aralarını Okumak:** Edebiyat sadece yazılanlar değil, yazılmayanlardır. Hikaye içinde verilmeyen boşluklar, okuyucunun hayal gücüyle dolar ve eseri her okur için eşsiz kılar.
+
+> [!IMPORTANT]
+> **Üslup (Stil):** Konu herkesindir, ama üslup sadece sanatçınındır. Bir yazarın kelime seçimi, cümle yapısı ve bakış açısı onun parmak izidir.
+
+---
+[🏠 Ana Sayfaya Dön](../README.md)

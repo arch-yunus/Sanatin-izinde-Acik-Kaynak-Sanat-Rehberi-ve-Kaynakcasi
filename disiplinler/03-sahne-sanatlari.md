@@ -25,4 +25,11 @@ Mzik, tiyatro ve dansn bir araya geldii "toplam sanat eseri" (Gesamtkunstwerk) r
 Teknik olarak sahne sanatlarndan farkl olsa da, oyunculuk ve sahneleme unsurlarn teknolojiyle birletirerek yeni bir dil oluturur.
 
 ---
-[?? Ana Sayfaya Dn](../README.md)
+> [!TIP]
+> **Dördüncü Duvar:** Tiyatroda "Dördüncü Duvar", oyuncuların seyirciyle arasında var olduğu varsayılan hayali bir perdedir. Modern tiyatroda bu duvarın "yıkılması", oyuncunun seyirciyle doğrudan etkileşime girmesi anlamına gelir.
+
+> [!IMPORTANT]
+> **Beden Dili:** Sahne sanatlarında beden, kelimelerden daha yüksek sesle konuşur. Bir duruşun, bir el hareketinin veya sadece göz temasının anlattığı hikaye, metne ruh katan asıl unsurdur.
+
+---
+[🏠 Ana Sayfaya Dön](../README.md)

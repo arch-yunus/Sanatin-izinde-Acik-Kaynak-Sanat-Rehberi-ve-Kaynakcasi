@@ -2,15 +2,22 @@
 
 Sanata balamak iin "zel bir yetenek" veya "sekinci bir eitim" art deildir. Sanat bir kas gibidir; ilgi, dzenli pratik ve doru bak asyla gelitirilebilir.
 
-## 1. Bak Açınızı Deitirin
-Eserleri tketmek yerine onlarla diyaloğa girin.
-*   **Aktif Gzlem:** Bir resme baktnzda sadece "gzel" demeyin. " sanat neren geliyor?", "Sizce sanat doru mu kullanyla neyi vurguluyor?" diye sorun.
-*   **Merak:** Bir eseri kimin, hangi artlarda ve ne amala yaptn aratrn.
+## Yol Haritası (İnteraktif)
 
-## 2. Temellerden Korkmayn
-Her sanat dalının bir alfabesi vardr.
-*   **Teori:** Renk teorisi, kompozisyon kurallar, nota bilgisi veya iir lleri gibi temel teknik bilgiler, yaratclğınızı kstlamaz; aksine ona kanat takar.
-*   **Aratrma:** ncelikle en ok ilgi duyduunuz birincil disipline odaklanın.
+```mermaid
+graph TD
+    A[Merak & Gözlem] --> B[Temel Eğitim]
+    B --> C{Disiplin Seçimi}
+    C -->|Görsel| D[Pratik & Eskiz]
+    C -->|İşitsel| E[Kuram & Ritim]
+    C -->|Sahne| F[Beden & İfade]
+    D --> G[Üretim & Paylaşım]
+    E --> G
+    F --> G
+    G --> H[Kendi Tarzını Bul!]
+```
+
+---
 
 ## 3. "Kötü" Üretme Özgürlüğü
 En büyük engel, ilk denemede mükemmel olma isteğidir.

@@ -1,3 +1,5 @@
+![Sanatın İzinde Banner](banner.png)
+
 # 🎨 Sanatın İzinde: Açık Kaynak Sanat Rehberi ve Kaynakçası
 
 [![Durum](https://img.shields.io/badge/Durum-Aktif-success)](#) [![Katkı](https://img.shields.io/badge/Katkılara-Açık-blue)](#) [![Lisans](https://img.shields.io/badge/Lisans-MIT-green)](#)
@@ -6,19 +8,17 @@
 
 Hoş geldiniz! Bu repo, sadece bir bilgi deposu değil, aynı zamanda sanatın insan ruhu ve toplum üzerindeki iyileştirici, dönüştürücü ve birleştirici gücünü keşfetmek isteyenler için bir **pusuladır**. 
 
-Bilgi paylaşıldıkça çoğalır, sanat ise paylaşıldıkça anlam kazanır. Bu açık kaynak rehber, sanatın sadece belirli bir kesimin lüksü değil, her insanın doğal hakkı ve ihtiyacı olduğu inancıyla oluşturulmuştur.
-
 ---
 
 ## 📂 İçindekiler
 1. [📊 Vizyon ve Misyon](#-vizyon-ve-misyon)
-2. [🌟 Neden Sanat?](#-neden-sanat)
-3. [🎭 Sanatın Temel Disiplinleri](#-sanatın-temel-disiplinleri)
-4. [🗺️ Gelişim İçin Yol Haritası](#-gelişim-için-yol-haritası)
-5. [🧠 Sanat Felsefesi ve Estetik](#-sanat-felsefesi-ve-estetik)
-6. [🚀 Sanatın Geleceği ve Dijital Dönüşüm](#-sanatın-geleceği-ve-dijital-dönüşüm)
-7. [📚 Önerilen Kaynaklar](#-önerilen-kaynaklar)
-8. [❓ Sıkça Sorulan Sorular (SSS)](#-sıkça-sorulan-sorular-sss)
+2. [🗺️ Sanat Serüveninizi Seçin!](#️-sanat-serüveninizi-seçin)
+3. [🖼️ Sanal Galeri: Başyapıtlar](#️-sanal-galeri-başyapıtlar)
+4. [🎭 Sanatın Temel Disiplinleri](#-sanatın-temel-disiplinleri)
+5. [🗺️ Gelişim İçin Yol Haritası](#-gelişim-için-yol-haritası)
+6. [🧠 Sanat Felsefesi ve Estetik](#-sanat-felsefesi-ve-estetik)
+7. [🚀 Sanatın Geleceği ve Dijital Dönüşüm](#-sanatın-geleceği-ve-dijital-dönüşüm)
+8. [📚 Önerilen Kaynaklar](#-önerilen-kaynaklar)
 9. [🤝 Nasıl Katkıda Bulunabilirsiniz?](#-nasıl-katkıda-bulunabilirsiniz)
 
 ---
@@ -28,21 +28,17 @@ Bilgi paylaşıldıkça çoğalır, sanat ise paylaşıldıkça anlam kazanır. 
 ### Vizyonumuz
 Dünya üzerindeki her bireyin, sanatın dallarından en az biriyle barışık olduğu, estetik kaygının günlük yaşamın bir parçası haline geldiği ve yaratıcılığın önündeki bariyerlerin kalktığı bir gelecek hayal ediyoruz.
 
-### Misyonumuz
-*   Sanat eğitimini **demokratikleştirmek**.
-*   Karmaşık sanat kuramlarını anlaşılır ve erişilebilir kılmak.
-*   Sanatçı adaylarına ve sanatseverlere güvenilir, küratörlüğünü topluluğun yaptığı bir kaynakça sunmak.
+---
+
+## 🧭 Sanat Serüveninizi Seçin!
+
+Nereden başlayacağınızı bilmiyorsanız, size özel hazırladığımız **[Sanat Serüveni](seruven.md)** sayfamızda kendi rotanızı belirleyebilirsiniz.
 
 ---
 
-## 🌟 Neden Sanat?
+## 🖼️ Sanal Galeri: Başyapıtlar
 
-Sanat, bir süsleme aracı değil, bir **varoluş mücadelesidir**.
-
-*   **Antropolojik Hafıza:** Mağara duvarlarından bugüne, insanlık tarihini tarihlerden değil, sanattan okuruz.
-*   **Bilişsel Esneklik:** Sanatla uğraşmak, beynin farklı lobları arasında yeni köprüler kurar, problem çözme yeteneğini geliştirir.
-*   **Toplumsal Empati:** Hiç tanımadığınız bir kültürün ezgisiyle ağlayabilmek, sanatın evrensel "biz"i inşa etme gücüdür.
-*   **Kişisel Katarsis:** İç dünyadaki karmaşayı bir dışavurumla (resim, müzik, şiir) somutlaştırmak, en saf terapi yöntemidir.
+Dünyayı değiştiren, bakış açımızı dönüştüren 10 büyük eserin hikayesini ve sanatsal analizini [**Sanal Galeri: Başyapıtlar**](galeri/bas-yapitalar.md) sayfamızda keşfedin.
 
 ---
 
@@ -57,56 +53,64 @@ Sanatın sonsuz evreninde yolculuğa çıkmak için kapılarımız:
 
 ---
 
-## 🚀 Sanatın Geleceği ve Dijital Dönüşüm
+## 🗺️ Gelişim İçin Yol Haritası
 
-21. yüzyıl, sanatın tanımını yeniden yapıyor.
+Sanata başlamak bir varış noktası değil, bir **keşif yolculuğudur**. İşte sizin için çizdiğimiz interaktif yol haritası:
 
-*   **Yapay Zeka (AI) ve Sanat:** Algoritmalar yaratıcı olabilir mi, yoksa sadece yeni bir fırça türü mü?
-*   **NFT ve Blokzincir:** Dijital sanatın sahipliği ve sanatçının haklarının korunması.
-*   **Sanal Gerçeklik (VR):** İzleyicinin eserin "içine" girdiği, sınırları zorlayan deneyimler.
-*   **Biyo-Sanat:** Yaşamın kendisini bir tuval olarak kullanan deneysel yaklaşımlar.
+```mermaid
+graph TD
+    A[Merak & Gözlem] --> B[Temel Eğitim]
+    B --> C{Disiplin Seçimi}
+    C -->|Görsel| D[Pratik & Eskiz]
+    C -->|İşitsel| E[Kuram & Ritim]
+    C -->|Sahne| F[Beden & İfade]
+    D --> G[Üretim & Paylaşım]
+    E --> G
+    F --> G
+    G --> H[Kendi Tarzını Bul!]
+```
+
+Ayrıntılı rehber için [**Sanata Başlangıç Rehberi**](rehberler/sanata-baslangic.md) sayfamızı ziyaret edin.
 
 ---
 
 ## 🧠 Sanat Felsefesi ve Estetik
 
-"Güzel" nedir? "Çirkin" sanatsal olabilir mi? Bu soruların cevabı yoksa da, arayışın kendisi [**Estetik ve Felsefe**](rehberler/estetik-ve-felsefe.md) sayfamızda gizli. Sanatın doğasını anlamak, onu icra etmek kadar kıymetlidir.
+"Güzel" nedir? "Çirkin" sanatsal olabilir mi? Bu soruların cevabı yoksa da, arayışın kendisi [**Estetik ve Felsefe**](rehberler/estetik-ve-felsefe.md) sayfamızda gizli.
 
 ---
 
-## ❓ Sıkça Sorulan Sorular (SSS)
+## 🚀 Sanatın Geleceği ve Dijital Dönüşüm
 
-**S: Sanatla uğraşmak için doğuştan yetenekli olmak şart mı?**
-C: Hayır. Yetenek, kapıyı aralayan bir anahtar olabilir ama o kapıdan içeri girmek ve içeride kalmak tamamen **sabır ve pratik** işidir.
-
-**S: Sanat pahalı bir uğraş mıdır?**
-C: Bir kalem ve kağıtla dünyaları çizebilir, sadece sesinizle bir orkestra kurabilirsiniz. Sanat, materyalden ziyade niyetle başlar.
-
-**S: Nereden başlamalıyım?**
-C: İçinizdeki en güçlü duyguya odaklanın. Eğer bu duygu bir görüntüyle ifade ediliyorsa görsel sanatlara, bir ritimle geliyorsa müziğe yönelin. [**Sanata Başlangıç Rehberimiz**](rehberler/sanata-baslangic.md) size yol gösterecektir.
+21. yüzyıl, sanatın tanımını yeniden yapıyor.
+*   **Yapay Zeka (AI) ve Sanat:** Algoritmalar yaratıcı olabilir mi?
+*   **NFT ve Blokzincir:** Dijital sanatın sahipliği.
+*   **VR/AR Deneyimleri:** Sanatın içine girmek.
 
 ---
 
 ## 📚 Önerilen Kaynaklar
 
-Bilginizi derinleştirmek için topluluğumuzun seçkileri:
-
-*   📖 [**Kitap Önerileri**](kaynaklar/kitaplar.md): Gombrich'ten Berger'e temel yapı taşları.
-*   🌐 [**Dijital Platformlar**](kaynaklar/online-platformlar.md): Sanal galeriler ve ücretsiz eğitimler.
+*   📖 [**Kitap Önerileri**](kaynaklar/kitaplar.md): Sanat tarihinin mihenk taşları.
+*   🌐 [**Dijital Platformlar**](kaynaklar/online-platformlar.md): Online sergiler ve eğitimler.
 *   🏛️ [**Müzeler ve Galeriler**](kaynaklar/muzeler.md): Görülmesi gereken dünya mirasları.
-*   🖋️ [**Özlü Sözler ve Bilgelik**](kaynaklar/ozlu-sozler.md): Büyük sanatçılardan ilham verici düşünceler.
+*   🖋️ [**Özlü Sözler ve Bilgelik**](kaynaklar/ozlu-sozler.md): Ustaların ruhundan dökülenler.
+*   📖 [**A'dan Z'ye Sanat Sözlüğü**](kaynaklar/sozluk.md): Temel kavramlar rehberi.
+
+---
+
+## 🌍 Neden Sanat?
+Sanat, bir süsleme aracı değil, bir **varoluş mücadelesidir**.
+*   **Antropolojik Hafıza:** İnsanlık tarihini sanattan okuruz.
+*   **Bilişsel Esneklik:** Beyindeki yeni köprüler.
+*   **Toplumsal Empati:** Evrensel "biz"i inşa etme gücü.
 
 ---
 
 ## 🤝 Nasıl Katkıda Bulunabilirsiniz?
 
-Bu bir topluluk projesidir. Siz de bir taş koymak isterseniz:
-1.  Yeni kaynaklar önerin.
-2.  Eksik disiplinleri tamamlayın.
-3.  Sanat etkinliklerini paylaşın.
-
-Ayrıntılar için [**KATKI REHBERİ**](CONTRIBUTING.md) dosyasını inceleyin.
+Bu bir topluluk projesidir. Siz de bir taş koymak isterseniz Lütfen [**KATKI REHBERİ**](CONTRIBUTING.md) dosyasını inceleyin.
 
 ---
 
-**Lisans:** Bu proje [MIT Lisansı](LICENSE) kapsamında korunmaktadır. Sanat özgürdür ve özgür kalmalıdır.
+**Lisans:** Bu proje [MIT Lisansı](LICENSE) kapsamında korunmaktadır.

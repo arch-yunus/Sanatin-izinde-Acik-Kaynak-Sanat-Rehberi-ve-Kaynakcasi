@@ -25,4 +25,11 @@ Mzi anlamak iin u drt ana unsuru kavramak gerekir:
 *   **Telliler:** Gitar, Arp, Balama, Ud.
 
 ---
-[?? Ana Sayfaya Dn](../README.md)
+> [!TIP]
+> **Sessizliğin Gücü:** Müzik sadece notalardan ibaret değildir; notalar arasındaki esler (sessizlikler) müziğin nefes almasını sağlar. Bir besteyi dinlerken sessizliğin nasıl bir gerilim veya huzur yarattığına dikkat edin.
+
+> [!IMPORTANT]
+> **Makam ve Duygu:** Türk Müziği'ndeki makamların insan ruhu üzerinde farklı etkileri olduğu bilinir. Örneğin, Rast makamı neşe ve huzur verirken, Nihavend makamı daha hüzünlü ve derin düşüncelere sevk eder.
+
+---
+[🏠 Ana Sayfaya Dön](../README.md)

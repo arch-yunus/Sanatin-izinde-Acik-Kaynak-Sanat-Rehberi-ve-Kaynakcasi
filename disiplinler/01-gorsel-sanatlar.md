@@ -27,4 +27,11 @@ Modern dnyann grsel dilini oluturan, teknolojiyle harmanlanm sanat dallardr.
 *   **Uygulama Alanlar:** Tipografi, llstrasyon, Kullanc Deneyimi (UX), Veri Grselletirme.
 
 ---
-[?? Ana Sayfaya Dn](../README.md)
+> [!TIP]
+> **Altın Oran ve Kompozisyon:** Bir esere bakarken gözünüzün neden belirli bir noktaya takıldığını merak ettiniz mi? Sanatçılar yüzyıllardır "Altın Oran" (1.618) kullanarak izleyicinin bakışını yönlendirmeyi başarmışlardır.
+
+> [!IMPORTANT]
+> **Işığın Gücü:** Rembrandt veya Caravaggio gibi ustaların eserlerinde ışık sadece aydınlık demek değildir; o bir hikaye anlatıcısıdır. Işığın düştüğü yer odak noktasını, gölgede kalan yer ise gizemi temsil eder.
+
+---
+[🏠 Ana Sayfaya Dön](../README.md)
