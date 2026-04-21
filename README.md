@@ -88,6 +88,8 @@ Ayrıntılı rehber için [**Sanata Başlangıç Rehberi**](rehberler/sanata-bas
 
 21. yüzyıl teknolojilerinin sanata etkisi: AI, NFT ve VR deneyimleri.
 
+*   🎭 [**Kod Galerisi: Ezoterik Sanat**](kod-galerisi/README.md): Kodun bir sanat formu olarak keşfi.
+
 ---
 
 ## 📚 Önerilen Kaynaklar
