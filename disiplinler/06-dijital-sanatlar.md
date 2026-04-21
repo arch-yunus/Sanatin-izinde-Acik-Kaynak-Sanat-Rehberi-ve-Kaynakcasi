@@ -1,3 +1,5 @@
+![Dijital Sanat Banner](../dijital-sanat.png)
+ 
 # 🚀 Dijital Sanatlar ve Geleceğin Estetiği
 
 Dijital dönüşüm, sanatın sadece araçlarını değil, temel tanımını da değiştiriyor. Pikselden koda, VR'dan AI'ya sanatın yeni sınırlarını keşfedin.
