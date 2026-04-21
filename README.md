@@ -60,6 +60,7 @@ Dünyayı değiştiren, bakış açımızı dönüştüren büyük eserlerin hik
 *   🎵 [**İşitsel Sanatlar**](disiplinler/02-isitsel-sanatlar.md): Ses ve ritim.
 *   🎭 [**Sahne Sanatları**](disiplinler/03-sahne-sanatlari.md): Canlı performans ve ifade.
 *   📚 [**Edebi Sanatlar**](disiplinler/04-edebi-sanatlar.md): Kelimelerle inşa.
+*   🚀 [**Dijital Sanatlar**](disiplinler/06-dijital-sanatlar.md): Teknolojinin estetiği.
 
 ---
 
@@ -73,10 +74,12 @@ graph TD
     C -->|İşitsel| E[Kuram & Ritim]
     C -->|Sahne| F[Beden & İfade]
     C -->|İslam San.| I[Meşk & Sabır]
+    C -->|Dijital| J[Kod & Algoritma]
     D --> G[Üretim & Paylaşım]
     E --> G
     F --> G
     I --> G
+    J --> G
     G --> H[Kendi Tarzını Bul!]
 ```
 

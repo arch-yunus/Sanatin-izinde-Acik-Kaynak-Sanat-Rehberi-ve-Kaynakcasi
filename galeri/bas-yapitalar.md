@@ -43,6 +43,21 @@ Bu sayfa, insanlık tarihinin akışını değiştiren, estetik ve düşünsel s
 **Neden Önemli?** Peygamber Efendimiz’in (sav) fiziksel özelliklerini, ahlakını ve şemailini en yüksek estetikle kağıda döken Hüsn-i Hat başyapıtıdır. Suret yerine kelamın güzelliğiyle hatırlamayı esas alan İslami sanat anlayışının en somut örneğidir.
 
 ---
+
+## 13. Son Akşam Yemeği - Leonardo da Vinci (1498)
+**Neden Önemli?** İncil'deki bir anın en dramatik ve matematiksel (perspektif) olarak kusursuz temsilidir. Figürlerin duygusal tepkileri ve kompozisyonun merkeziliği, Batı resim sanatının temel taşıdır.
+
+## 14. İnci Küpeli Kız - Johannes Vermeer (1665)
+**Neden Önemli?** "Kuzey'in Mona Lisa'sı" olarak anılır. Işığın kullanımı ve kızın bakışındaki masumiyet ile gizem, portre sanatının en zarif örneklerinden biridir.
+
+## 15. Süleymaniye Camii - Mimar Sinan (1557)
+**Neden Önemli?** Sadece bir ibadethane değil, bir akustik ve mühendislik harikasıdır. Dört minaresi ve devasa kubbesiyle Osmanlı'nın ihtişamını ve Sinan'ın mimari dehasını simgeler. "Kalfalık eserim" dediği bu yapı, İstanbul silüetinin ruhudur.
+
+## 16. Everydays: The First 5000 Days - Beeple (2021)
+**Neden Önemli?** Sanatın dijitalleşmesinin ve NFT (Non-Fungible Token) devriminin en somut örneğidir. 5000 gün boyunca her gün üretilen çizimlerin birleşimi, sanatın hem emeğini hem de yeni dünyasını temsil eder.
+
+---
+
 > [!TIP]
 > Bir sanat eserini anlamak için sadece bakmayın; onun hangi şartlarda, hangi acıların veya sevinçlerin içinden doğduğunu hissetmeye çalışın.
 

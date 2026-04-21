@@ -3,8 +3,10 @@
 Sanat dünyasına giriş yapmak ve derinleşmek için temel kitap listesi:
 
 ## 1. Genel Sanat Tarihi ve Kuramı
-*   **Sanatın Öyküsü (The Story of Art) - E.H. Gombrich:** Sanat tarihinin en popüler ve anlaşılır giriş kitabı.
-*   **Görme Biçimleri (Ways of Seeing) - John Berger:** Sanat eserlerine bakış açımızı kökten değiştiren klasik bir eser.
+*   **Sanatın Tarihi** - E.H. Gombrich: Sanata giriş için en temel ve vazgeçilmez kaynaktır.
+*   **İslam Sanatı ve Maneviyatı** - Seyyid Hüseyin Nasr: İslam estetiğinin metafizik derinliğini anlayan en güçlü eserlerden biri.
+*   **Sanatın İcadı** - Larry Shiner: Sanat kavramının tarihsel gelişimini ve "yüksek sanat" mitini sorgulayan bir çalışma.
+*   **Görme Biçimleri** - John Berger: Görüntülerin ideolojik ve toplumsal arka planını anlamak için bir klasik.
 *   **Sanat Nedir? - Lev Tolstoy:** Sanatın ahlaki ve toplumsal rolü üzerine bir tartışma.
 *   **Estetik - Benedetto Croce:** Sanatın bir ifade biçimi olarak kuramsal analizi.
 
